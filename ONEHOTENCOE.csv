@@ -1,0 +1,117 @@
+ProductID,Color,Size,Gender,Brand,Price,Rating,InStock
+1001,Blue,XL,Unisex,Adidas,135.79,4.2,True
+1002,White,XL,Unisex,Puma,118.57,3.5,True
+1003,Yellow,M,Unisex,Adidas,160.36,5.0,True
+1004,Green,S,Female,Puma,58.14,4.5,True
+1005,Red,S,Male,New Balance,115.53,3.4,True
+1006,Red,M,Unisex,Adidas,91.42,4.0,False
+1007,Red,XL,Female,New Balance,161.64,3.5,False
+1008,Black,XL,Unisex,New Balance,56.71,3.1,True
+1009,Green,XS,Unisex,Nike,55.61,4.7,True
+1010,Yellow,L,Unisex,Nike,64.02,5.0,False
+1011,Red,M,Male,Nike,19.99,3.1,True
+1012,White,S,Female,Nike,66.6,4.5,True
+1013,Black,S,Unisex,Nike,58.43,3.6,True
+1014,Red,M,Male,Puma,90.26,3.8,True
+1015,Red,XXL,Male,Nike,96.96,3.7,True
+1016,Red,M,Female,Adidas,150.67,3.5,True
+1017,Blue,L,Unisex,Under Armour,118.26,4.1,False
+1018,Green,L,Female,Nike,64.81,3.5,False
+1019,Blue,M,Female,Under Armour,53.56,4.3,True
+1020,Blue,XXL,Male,Adidas,102.22,4.1,True
+1021,Green,XXL,Female,Nike,38.79,3.9,False
+1022,Red,M,Unisex,Puma,149.1,3.5,False
+1023,Blue,M,Male,Puma,126.28,3.7,True
+1024,Blue,M,Female,New Balance,68.58,4.6,False
+1025,Green,M,Unisex,Under Armour,25.04,4.5,False
+1026,Black,XS,Unisex,Under Armour,132.39,3.4,True
+1027,Red,L,Female,Adidas,80.99,4.2,True
+1028,Green,L,Unisex,Nike,128.32,4.6,True
+1029,Green,XS,Female,Under Armour,29.2,2.9,True
+1030,Red,M,Male,Under Armour,64.02,4.5,True
+1031,Green,XXL,Unisex,New Balance,85.18,3.6,True
+1032,Red,S,Unisex,Adidas,86.64,4.5,True
+1033,Red,S,Unisex,Adidas,69.25,3.6,True
+1034,White,M,Unisex,Under Armour,106.8,2.8,True
+1035,White,XXL,Female,Adidas,47.63,3.0,True
+1036,Black,S,Female,New Balance,80.02,4.1,False
+1037,Blue,L,Unisex,Under Armour,89.21,4.3,True
+1038,Red,XL,Female,Adidas,103.01,3.5,True
+1039,Yellow,S,Unisex,Under Armour,109.91,4.5,True
+1040,Blue,L,Unisex,Under Armour,45.64,2.9,True
+1041,Red,M,Unisex,Nike,31.31,4.1,True
+1042,Green,L,Male,New Balance,129.72,3.3,True
+1043,Red,L,Female,Adidas,96.63,3.6,True
+1044,White,L,Male,Under Armour,58.8,4.1,True
+1045,Blue,XS,Female,Adidas,139.29,3.5,True
+1046,Yellow,XL,Male,New Balance,89.05,3.8,True
+1047,Blue,M,Female,Adidas,126.28,4.8,False
+1048,Green,S,Female,Nike,87.36,3.7,True
+1049,Green,XS,Male,New Balance,157.13,4.7,True
+1050,Red,L,Female,Nike,146.44,3.3,True
+1051,White,L,Male,Adidas,76.29,4.5,True
+1052,Yellow,XS,Male,New Balance,119.0,5.0,True
+1053,White,L,Unisex,New Balance,107.59,2.4,True
+1054,Black,S,Female,Puma,132.9,3.5,False
+1055,Green,L,Male,Puma,51.23,4.5,True
+1056,White,S,Female,Adidas,109.01,4.0,True
+1057,Red,L,Unisex,Adidas,122.04,4.4,True
+1058,Red,M,Male,Adidas,23.44,3.7,False
+1059,Red,XXL,Female,Puma,43.59,4.2,True
+1060,Blue,S,Male,Under Armour,19.99,4.0,True
+1061,Blue,M,Male,Under Armour,75.57,4.9,True
+1062,Blue,S,Female,Under Armour,110.11,4.3,True
+1063,Black,XXL,Female,Nike,137.58,4.3,True
+1064,Blue,XL,Female,Adidas,87.59,3.8,False
+1065,Blue,M,Unisex,Nike,142.0,3.8,True
+1066,Green,L,Unisex,Puma,36.7,3.8,True
+1067,Red,XL,Female,Adidas,25.38,4.4,True
+1068,Black,L,Male,New Balance,83.06,3.8,True
+1069,Red,L,Unisex,Adidas,98.44,4.3,True
+1070,White,S,Male,Nike,83.86,5.0,True
+1071,Yellow,XS,Female,Nike,19.99,4.7,True
+1072,Red,XL,Male,Under Armour,81.88,3.9,True
+1073,Red,XXL,Male,Puma,39.34,4.9,True
+1074,Black,L,Unisex,Nike,108.44,3.8,True
+1075,Yellow,M,Unisex,Nike,97.83,2.7,True
+1076,Yellow,M,Female,Under Armour,52.1,3.4,True
+1077,Yellow,L,Female,Nike,67.01,2.8,True
+1078,Red,XL,Male,Under Armour,47.93,3.9,True
+1079,Blue,XL,Male,Under Armour,82.81,4.1,False
+1080,Red,XL,Male,Nike,118.43,5.0,False
+1081,Black,L,Female,Nike,50.5,4.3,True
+1082,Green,XS,Unisex,New Balance,102.64,3.9,True
+1083,Blue,S,Female,Adidas,66.44,4.7,True
+1084,Red,XL,Male,Adidas,57.25,2.6,True
+1085,Blue,L,Unisex,Under Armour,81.25,4.3,True
+1086,Blue,XS,Unisex,New Balance,48.77,4.6,True
+1087,Yellow,S,Female,New Balance,65.62,3.1,True
+1088,Yellow,L,Female,Under Armour,43.07,4.9,True
+1089,Black,XS,Female,Adidas,153.77,4.3,True
+1090,Green,S,Male,Nike,86.23,3.8,True
+1091,Red,L,Female,Under Armour,60.51,4.5,True
+1092,Yellow,L,Unisex,Puma,92.49,5.0,True
+1093,Yellow,L,Male,Adidas,81.07,4.2,True
+1094,Green,S,Male,New Balance,77.27,4.3,True
+1095,Yellow,L,Male,Nike,106.5,3.8,True
+1096,Green,S,Male,Adidas,111.51,3.5,True
+1097,Green,M,Unisex,Nike,66.43,4.7,True
+1098,Blue,L,Unisex,Adidas,64.85,3.5,True
+1099,Red,L,Female,Nike,75.37,4.2,True
+1100,Red,XL,Male,Nike,19.99,3.8,True
+1101,Red,L,Female,Nike,31.97,4.4,True
+1102,Yellow,L,Female,Puma,132.84,4.3,False
+1103,Blue,XS,Male,Under Armour,142.57,4.8,False
+1104,Green,M,Female,Puma,76.28,3.7,True
+1105,White,M,Female,New Balance,105.18,3.9,True
+1106,Red,S,Female,Adidas,95.89,3.4,True
+1107,Blue,XXL,Female,Adidas,192.76,3.8,True
+1108,Yellow,M,Male,New Balance,124.19,4.4,False
+1109,Red,XL,Female,Nike,80.52,4.6,True
+1110,Red,L,Female,New Balance,51.56,3.5,True
+1111,Blue,XL,Female,Nike,28.77,4.7,True
+1112,Red,L,Unisex,New Balance,92.12,5.0,True
+1113,White,L,Female,Nike,58.53,4.4,True
+1114,Black,M,Male,New Balance,35.22,5.0,True
+1115,Yellow,S,Male,Puma,62.37,3.6,True
+1116,Black,L,Female
